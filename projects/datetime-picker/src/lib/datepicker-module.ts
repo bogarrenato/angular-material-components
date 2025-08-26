@@ -36,7 +36,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     MatCommonModule,
     NgxMatTimepickerModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    CdkScrollableModule
   ],
   exports: [
     CdkScrollableModule,
